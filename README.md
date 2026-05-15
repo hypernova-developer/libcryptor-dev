@@ -34,13 +34,13 @@ Unlike traditional libraries, **libcryptor-dev** uses nested namespaces to preve
 ## 💻 Usage
 
 ```cpp
-#include "cryptor.hpp"
+#include "include/cryptor.hpp"
 #include <iostream>
 
 int main()
 {
-    std::string secret = "Muhammed Eymen";
-    std::string key = "SafGuc2026";
+    std::string secret = "Hypernovae";
+    std::string key = "Libraries2026";
 
     // 1. Encryption (The Lock)
     std::string encrypted = cryptor::encryptor::process(cryptor::Method::XOR_LITE, secret, key);
