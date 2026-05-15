@@ -56,5 +56,8 @@ int main()
 }
 ```
 ## 📜 Development Status
-This library is maintained by hypernova-developer. Current version reflects the progress of 743 total commits across the ecosystem. 
+This library is maintained by hypernova-developer. Current version reflects the progress of 743 total commits across the ecosystem.
 _Next Goals: Implementation of SHA-256 and Base64 encoding support._
+
+## Licensing
+This project is protected under the GNU GPL v3.0 license and owned by **hypernova-developer*.
