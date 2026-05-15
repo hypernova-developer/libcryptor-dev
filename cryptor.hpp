@@ -1,3 +1,5 @@
+#pragma once
+
 #ifndef CRYPTOR_HPP
 #define CRYPTOR_HPP
 
